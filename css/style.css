@@ -33,3 +33,7 @@ h1 {
 .description-photos {
     font-size: small;
 }
+
+p > span {
+    background-color: yellow;
+}
