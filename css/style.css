@@ -3,15 +3,16 @@ body{
 }
 
 header{
-    height: 100px;
+    height: 180px;
     background-color: #4F9FF7;
-    background-image: url("/img/pattern.png");
+    background-image: url(../img/pattern.png);
 }
 
 #logo-booleaner {
-    width: 150px;
+    width: 200px;
     position: relative;
-    top: 50px;
+    top: 120px;
+    left: 20px;
 }
 
 h1 {
