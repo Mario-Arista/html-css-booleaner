@@ -37,3 +37,22 @@ h1 {
 p > span {
     background-color: yellow;
 }
+
+table{
+    width: 100%;
+    background-color: white;
+}
+
+th {
+    text-align: left;
+    background-color: #4F9FF7;
+}
+
+
+.first-column, .second-column {
+    width: 20%;
+}
+
+#first-row, #third-row {
+    background-color: grey;
+}
