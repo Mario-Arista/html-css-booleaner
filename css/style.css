@@ -1,10 +1,31 @@
+body{
+    font-family: 'Times New Roman', Times, serif
+}
 header > div {
     height: 100px;
-    background-color: blue;
+    background-color: #4F9FF7;
 }
 
 #logo-booleaner {
     width: 150px;
     position: relative;
     top: 50px;
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+#author {
+    color: grey;
+    font-size: medium;
+}
+
+#author > span {
+    color: #4F9FF7;
+}
+
+#data-article {
+    color: grey;
+    font-size: small;
 }
