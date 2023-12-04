@@ -15,8 +15,13 @@ header{
     left: 20px;
 }
 
+main {
+    margin: 0 auto;
+    width: 80%;
+}
+
 h1 {
-    font-size: 40px;
+    font-size: xx-large;
 }
 
 #author {
