@@ -1,9 +1,11 @@
 body{
     font-family: 'Times New Roman', Times, serif
 }
-header > div {
+
+header{
     height: 100px;
     background-color: #4F9FF7;
+    background-image: url("/img/pattern.png");
 }
 
 #logo-booleaner {
