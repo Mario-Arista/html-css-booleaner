@@ -65,9 +65,10 @@ th {
     font-size: medium;
     font-weight: bold;
 }
+
 .interests {
     width: 350px;
-    height: auto;
+    height: 210px;
     
     font-size: medium;
     font-weight: bold;
@@ -78,5 +79,13 @@ th {
 .interests > div {
     position: relative;
     left: 10px;
-    top: 20px;
+    top: 10px;
+}
+
+#monitor {
+    background-image: url('../img/monitor.jpg');
+}
+
+#graph {
+    background-image: url('../img/graph.jpg');
 }

@@ -8,6 +8,11 @@ header{
     background-image: url(../img/pattern.png);
 }
 
+main {
+    margin: 0 auto;
+    width: 80%;
+}
+
 #logo-booleaner {
     width: 200px;
     position: relative;
@@ -15,13 +20,8 @@ header{
     left: 20px;
 }
 
-main {
-    margin: 0 auto;
-    width: 80%;
-}
-
 h1 {
-    font-size: xx-large;
+    font-size: 40px;
 }
 
 #author {
@@ -70,9 +70,10 @@ th {
     font-size: medium;
     font-weight: bold;
 }
+
 .interests {
     width: 350px;
-    height: auto;
+    height: 210px;
     
     font-size: medium;
     font-weight: bold;
@@ -83,5 +84,14 @@ th {
 .interests > div {
     position: relative;
     left: 10px;
-    top: 20px;
+    top: 10px;
 }
+
+#monitor {
+    background-image: url('../img/monitor.jpg');
+}
+
+#graph {
+    background-image: url('../img/graph.jpg');
+}
+
