@@ -56,3 +56,24 @@ th {
 #first-row, #third-row {
     background-color: #B1E5F2;
 }
+
+#text-interest {
+    color: grey;
+    font-size: medium;
+    font-weight: bold;
+}
+.interests {
+    width: 200px;
+    height: 200px;
+    
+    font-size: medium;
+    font-weight: bold;
+    
+    color: white;
+    background-color: red;
+
+}
+
+#monitor {
+    background-image: url(/img/monitor.jpg);
+}
