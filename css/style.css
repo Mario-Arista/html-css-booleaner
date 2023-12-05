@@ -2,6 +2,8 @@ body{
     font-family: 'Times New Roman', Times, serif
 }
 
+/* <!-- Header the booleaner with background color and image --> */
+
 header{
     height: 180px;
     background-color: #4F9FF7;
@@ -14,6 +16,9 @@ header{
     top: 120px;
     left: 20px;
 }
+
+/* <!-- First section article title, author, data  -->  */
+
 
 h1 {
     font-size: 40px;
@@ -28,22 +33,29 @@ h1 {
     color: #4F9FF7;
 }
 
-#data-article {
+#date-article {
     color: grey;
     font-size: small;
 }
+
+/* <!-- Second section photos with legends  -->  */
 
 .description-photos {
     font-size: small;
 }
 
+/* <!-- First paragraph -->  */
+
 p > span {
     background-color: yellow;
 }
 
+/* <!-- Table with colors --> */
+
 table{
     width: 100%;
     background-color: white;
+    border-collapse: collapse;
 }
 
 th {
@@ -59,6 +71,8 @@ th {
 #first-row, #third-row {
     background-color: #B1E5F2;
 }
+
+/* <!-- Final Images --> */
 
 #text-interest {
     color: grey;
