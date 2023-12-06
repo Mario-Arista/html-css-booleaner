@@ -10,11 +10,24 @@ header{
     background-image: url(../img/pattern.png);
 }
 
+/* Bonus esercizio */
+
+main {
+    margin: 0 auto;
+    width: 80%;
+}
+
+/* Fine Bonus esercizio */
+
 #logo-booleaner {
     width: 200px;
     position: relative;
     top: 120px;
-    left: 20px;
+
+ /* Bonus esercizio */   
+ 
+    left: 130px;
+/* Fine Bonus esercizio */
 }
 
 /* <!-- First section article title, author, data  -->  */
